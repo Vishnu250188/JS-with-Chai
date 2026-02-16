@@ -1,2 +1,2 @@
-# JS-with-Chai
+# JS
 Learning Javascript at youtube
